@@ -1,0 +1,3 @@
+file,lake,rows_raw,rows_output,measurement_column_detected,non_missing_measurements,missing_measurements
+KEARL LAKE.csv,kearl_lake,662,662,vanadium_total_recoverable,626,36
+GREGOIRE RIVER.csv,gregoire_river,171,171,vanadium_total_recoverable,137,34
