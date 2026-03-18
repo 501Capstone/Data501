@@ -1,0 +1,10 @@
+,Sampling Timestamp,Aluminum Dissolved,Aluminum Total Recoverable,Calcium Dissolved,Copper Dissolved,Copper Total Recoverable,Lead Dissolved,Lead Total Recoverable,Nickel Dissolved,Nickel Total Recoverable,Nitrogen Dissolved,Phosphorus Total Dissolved,Phosphorus Total,Vanadium Dissolved,Turbidity,pH,Oxygen dissolved % saturation,Site Name,Unit Symbol
+0,2024-07-11 10:30:00,1.2,3.8,34000.0,0.13,0.14,0.02,0.007,0.23,0.24,300.0,3.0,0.0072,0.115,0.1,8.46,,Touchwood Lake ,µg/l
+1,2024-08-20 13:27:00,,,32000.0,,,,,,,310.0,3.0,0.0038,,0.94,8.61,,Touchwood Lake ,µg/l
+2,2024-09-27 11:45:00,,,31000.0,,,,,,,370.0,3.0,0.013,,2.1,8.33,,Touchwood Lake ,µg/l
+3,2025-02-26 11:00:00,0.4,4.0,34000.0,0.08,0.08,0.02,0.038,0.17,0.22,600.0,10.0,0.015,0.078,0.12,7.51,,Touchwood Lake ,µg/l
+4,2025-03-25 09:00:00,,,41000.0,,,,,,,420.0,6.8999999999999995,0.014,,4.8,7.82,,Touchwood Lake ,µg/l
+5,2025-06-22 12:00:00,,,34000.0,,,,,,,510.0,3.0,0.011,,2.5,7.52,,Touchwood Lake ,µg/l
+6,2025-07-13 13:45:00,0.7,6.7,34000.0,0.1,0.2,0.02,0.006,0.19,0.3,390.0,5.2,0.011,0.078,0.13,8.71,,Touchwood Lake ,µg/l
+7,2025-08-10 11:56:00,,,33000.0,,,,,,,390.0,3.0,0.003,,0.18,8.63,,Touchwood Lake ,µg/l
+8,2025-09-07 11:05:00,,,34000.0,,,,,,,350.0,3.0,0.0092,,3.5,8.52,,Touchwood Lake ,µg/l
