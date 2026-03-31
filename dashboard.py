@@ -20,7 +20,9 @@ st.caption("Interactive dashboard for comparing lake chemistry across Near, Mid,
 # =========================
 @st.cache_data
 def load_data():
-    df = pd.read_csv("oilsands_master_clean_FINAL.csv")
+    df = pd.read_csv(
+    "https://raw.githubusercontent.com/morsalnm/Data501/main/oilsands_git statusmaster_clean_FINAL.csv"
+)
     df.columns = df.columns.str.lower().str.strip()
 
     if "sampling_timestamp" in df.columns:
